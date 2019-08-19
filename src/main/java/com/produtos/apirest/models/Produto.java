@@ -22,7 +22,7 @@ public class Produto implements Serializable {
 	private String nome;
 
 	private BigDecimal quantidade;
-	
+
 	private String descricao;
 
 	private BigDecimal valor;
